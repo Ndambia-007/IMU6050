@@ -1,4 +1,11 @@
-22455037285294348
+22468773441971294
+ADP3338
+SOT230P700X180-4N
+
+
+0
+4
+4
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52968,6 +52975,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+D_Scho
+DIOM4336X265N
+
+
+0
+2
+2
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -56104,6 +56118,13 @@ heatsink
 0
 0
 0
+ICM
+PQFN50P300X250X97-14N
+
+
+0
+14
+14
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -85245,6 +85266,20 @@ rotary encoder
 0
 7
 6
+Schottky
+DIO_MMSZ4700T1G
+
+
+0
+2
+2
+Screw
+CUI_TB009-508-03BE
+
+
+0
+3
+3
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -92504,3 +92539,24 @@ varistor
 0
 2
 2
+button
+SW_TS02-66-95-BK-260-LCR-D
+
+
+0
+4
+4
+esp 32
+MODULE_ESP32-PICO-MINI-02
+
+
+0
+61
+61
+mpu
+QFN50P400X400X95-24N
+
+
+0
+24
+24
