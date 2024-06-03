@@ -1,0 +1,11 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp 32")(type "KiCad")(uri "${KIPRJMOD}/library")(options "")(descr ""))
+  (lib (name "mpu")(type "KiCad")(uri "${KIPRJMOD}/library/MPU-6050")(options "")(descr ""))
+  (lib (name "ICM")(type "KiCad")(uri "${KIPRJMOD}/library/ICM-42688-P")(options "")(descr ""))
+  (lib (name "ADP3338")(type "KiCad")(uri "${KIPRJMOD}/library/ADP3338/ADP3338AKCZ-1.8-R7")(options "")(descr ""))
+  (lib (name "button")(type "KiCad")(uri "${KIPRJMOD}/library/button switch/TS02-66-95-BK-260-LCR-D")(options "")(descr ""))
+  (lib (name "D_Scho")(type "KiCad")(uri "${KIPRJMOD}/library/SS26/SS26")(options "")(descr ""))
+  (lib (name "Schottky")(type "KiCad")(uri "${KIPRJMOD}/library/NRVB130T1G")(options "")(descr ""))
+  (lib (name "Screw")(type "KiCad")(uri "${KIPRJMOD}/library/TB009-508-03BE")(options "")(descr ""))
+)
